@@ -1,0 +1,74 @@
+09:15:03.391493
+Early BO short order placed for RELIANCE
+
+09:30:04.436380
+SL modified for RELIANCE
+
+09:45:02.714938
+SL modified for RELIANCE
+
+10:00:03.823338
+SL modified for RELIANCE
+
+10:15:03.587067
+SL modified for RELIANCE
+
+10:30:04.740856
+Quantity check done on SL for RELIANCE
+
+10:45:04.449003
+Quantity check done on SL for RELIANCE
+
+11:00:02.839257
+Quantity check done on SL for RELIANCE
+
+11:15:03.735886
+SL modified for RELIANCE
+
+11:30:04.664389
+Quantity check done on SL for RELIANCE
+
+11:45:03.067272
+Quantity check done on SL for RELIANCE
+
+12:00:05.121511
+SL modified for RELIANCE
+
+12:15:03.630533
+Quantity check done on SL for RELIANCE
+
+12:30:03.636062
+Quantity check done on SL for RELIANCE
+
+12:45:03.556337
+Quantity check done on SL for RELIANCE
+
+13:00:03.505543
+Quantity check done on SL for RELIANCE
+
+13:15:02.750541
+Quantity check done on SL for RELIANCE
+
+13:30:02.674410
+Quantity check done on SL for RELIANCE
+
+13:45:04.270664
+Short => Long Reverse position for RELIANCE
+
+14:00:04.497859
+SL modified for RELIANCE
+
+14:15:03.540799
+Quantity check done on SL for RELIANCE
+
+14:30:04.249113
+Quantity check done on SL for RELIANCE
+
+14:45:03.632936
+Quantity check done on SL for RELIANCE
+
+15:00:04.325961
+Quantity check done on SL for RELIANCE
+                         
+15:15:08.023475
+Exit position for RELIANCE
