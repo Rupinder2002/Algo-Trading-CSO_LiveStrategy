@@ -15,9 +15,15 @@ Backtested_on : ['RELIANCE']
 ============================ KPIs ==========================
 
 CAGR:  198.0  %
+
 Max_drawdown:  5.7  %
+
 2.75 Settled Trades per ticker per day 
+
 hit_ratio:  0.44
+
 avg_profit:  24  points 
+
 avg_loss:  11  points
+
 risk:reward  0.46
